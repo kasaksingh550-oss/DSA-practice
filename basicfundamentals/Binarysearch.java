@@ -1,3 +1,4 @@
+package basicfundamentals;
 import java.util.Scanner;
 
 public class Binarysearch {

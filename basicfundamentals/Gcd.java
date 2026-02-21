@@ -1,3 +1,4 @@
+package basicfundamentals;
 import java.util.*;
 public class Gcd {
    static int GCD(int n1,int n2) {

@@ -1,4 +1,5 @@
 
+package basicfundamentals;
 import java.util.*;
 class NextGreaterElement
 {

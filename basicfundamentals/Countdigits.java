@@ -1,3 +1,6 @@
+package basicfundamentals;
+
+
 import java.util.*;
 public class Countdigits {
     public static int countDigits(int n){
